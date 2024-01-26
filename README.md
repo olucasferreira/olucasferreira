@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-I'm a dedicated AI Engineer/Data Scientist from Brazil, currently working as a Data Scientist at Portal Telemedicina. I specialize in artificial intelligence within the healthcare sector and have a proven track record of scoping and developing innovative AI solutions, staying abreast of the latest developments in the AI landscape.
+I'm Lucas, an AI Engineer/Data Scientist from Brazil, currently working as a Data Scientist at Portal Telemedicina. I specialize in artificial intelligence within the healthcare sector and have a proven track record of scoping and developing innovative AI solutions, staying abreast of the latest developments in the AI landscape.
 
 ## ✨ Professional Highlights
 

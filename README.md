@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**olucasferreira/olucasferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated AI Engineer/Data Scientist from Brazil, currently working as a Data Scientist at Portal Telemedicina. I specialize in artificial intelligence within the healthcare sector and have a proven track record of scoping and developing innovative AI solutions, staying abreast of the latest developments in the AI landscape.
 
-Here are some ideas to get you started:
+## ✨ Professional Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Work Experience:** 
+  - Data Scientist at Portal Telemedicina, contributing expertise to enhance healthcare solutions through data-driven insights.
+  - Previous experience as an AI engineer at DPS in Munich, Germany, collaborating with prestigious partners such as the German Red Cross and AWS to innovate emergency communication solutions for elderly care.
+
+- **Education:** Holds a Bachelor's degree in Mechatronics Engineering from FIAP.
+
+## 🚀 Project Portfolio
+
+Explore my [Portfolio Repository](https://github.com/olucasferreira/Portfolio) to discover various projects, including innovative solutions in healthcare and an award-winning autonomous vehicle computer vision system.
+
+Feel free to reach out for collaboration opportunities or to discuss the fascinating world of AI and data science!
+
+## 🛠️ Tech Stack
+- **Data Science and Intelligent Systems:** Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | Generative AI | Medical Imaging Analisys
+- **Programming and Libraries:** Python | Pandas | NumPy | Scikit-Learn | TensorFlow | Keras | PyTorch | LangChain | Hugging Face | Streamlit | cuML | 
+OpenAI API | PySpark | Django | OpenCV
+- **Tech Stack and Operations:** Cloud Computing | Docker | Git | SQL | PostgreSQL | MongoDB | ETL/ELT | Unit Testing | MLOps | MLflow | Kubeflow
+- **​​Google Cloud Platform (GCP):** Vertex AI | BigQuery | Cloud Storage | Cloud Functions | Cloud Run | Cloud SQL | Pub/Sub | Dataflow (Apache Beam) | Kubernetes Engine | Looker
+- **Amazon Web Services (AWS):** Amazon SageMaker | Lambda | Amazon Connect | Pinpoint | SNS | S3 | RDS

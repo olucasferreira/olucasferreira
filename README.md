@@ -14,6 +14,9 @@ I'm a dedicated AI Engineer/Data Scientist from Brazil, currently working as a D
 
 Explore my [Portfolio Repository](https://github.com/olucasferreira/Portfolio) to discover various projects, including innovative solutions in healthcare and an award-winning autonomous vehicle computer vision system.
 
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-de-oliveira/)
+
 Feel free to reach out for collaboration opportunities or to discuss the fascinating world of AI and data science!
 
 ## 🛠️ Tech Stack

@@ -5,7 +5,7 @@ I'm Lucas, an AI Engineer/Data Scientist from Brazil, currently working as a Mac
 ## ✨ Professional Highlights
 
 - **Work Experience:** 
-  - Data Scientist at Portal Telemedicina, contributing expertise to enhance healthcare solutions through data-driven insights.
+  - Machine Learning Engineer at FIDI, contributing expertise to enhance healthcare solutions through data-driven insights.
   - Previous experience as an AI engineer at DPS in Munich, Germany, collaborating with prestigious partners such as the German Red Cross and AWS to innovate emergency communication solutions for elderly care.
 
 - **Education:** Holds a Bachelor's degree in Mechatronics Engineering from FIAP.

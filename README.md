@@ -1,11 +1,11 @@
 # Welcome to My Profile! 👋
 
-AI Engineer/Data Scientist from Brazil, currently working as a Machine Learning Engineer at FIDI. Specialized in applying data science and machine learning techniques to solve complex problems in the healthcare industry, including generative AI applications and deep learning-based medical image analysis.
+AI Engineer from Brazil, currently working at Voa Health. Specialized in applying data science and machine learning techniques to solve complex problems in the healthcare industry, including generative AI applications and deep learning-based medical image analysis.
 
 ## ✨ Professional Highlights
 
 - **Work Experience:** 
-  - Machine Learning Engineer at FIDI, implementing generative AI models for medical applications.
+  - Machine Learning Engineer at FIDI, implementing generative AI applications to advance diagnostic precision and efficiency within the organization..
   - Data Scientist at Portal Telemedicina, contributing expertise to enhance healthcare solutions through data-driven insights.
   - Previous experience as an AI engineer at DPS in Munich, Germany, collaborating with prestigious partners such as the German Red Cross and AWS to innovate emergency communication solutions for elderly care.
 
